@@ -1,6 +1,6 @@
 function reduce (f, acc, xs) {
 	if(xs.length === 0) return acc;
-	return reduce(f, f(acc, xs[0]), xs.slice(1, xs.length));
+	return reduce(f, f(acc, xs[0]), xs.slice(1));
 }
 
 function map(f) {
