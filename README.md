@@ -1,6 +1,6 @@
 # Transducers
 
-Transducers for JavaScript.
+[Transducers](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming) for JavaScript.
 
 ## Usage
 
